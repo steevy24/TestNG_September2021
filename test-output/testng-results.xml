@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14393" started-at="2022-02-23T21:21:36 CST" finished-at="2022-02-23T21:21:50 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14393" started-at="2022-02-23T21:21:36 CST" finished-at="2022-02-23T21:21:50 CST">
+      <class name="variousConcepts.Abc7">
+        <test-method status="PASS" signature="readconfig()[pri:0, instance:variousConcepts.Abc7@6b57696f]" name="readconfig" is-config="true" duration-ms="11" started-at="2022-02-23T21:21:36 CST" finished-at="2022-02-23T21:21:36 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readconfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.Abc7@6b57696f]" name="init" is-config="true" duration-ms="4517" started-at="2022-02-23T21:21:36 CST" finished-at="2022-02-23T21:21:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:variousConcepts.Abc7@6b57696f]" name="loginTest" duration-ms="1984" started-at="2022-02-23T21:21:41 CST" finished-at="2022-02-23T21:21:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.Abc7@6b57696f]" name="init" is-config="true" duration-ms="4072" started-at="2022-02-23T21:21:43 CST" finished-at="2022-02-23T21:21:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addContact()[pri:2, instance:variousConcepts.Abc7@6b57696f]" name="addContact" duration-ms="3758" started-at="2022-02-23T21:21:47 CST" finished-at="2022-02-23T21:21:50 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+      </class> <!-- variousConcepts.Abc7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
